@@ -1,4 +1,4 @@
-Hello! I'm David.
+Hey there! I'm David.
 
 I have a passion for software development and helping people achieve their personal and professional goals. 
 
