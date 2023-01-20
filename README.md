@@ -10,10 +10,14 @@ You can click the Preview link to take a look at your changes.
 
 Technologies:
 
-Front End
+**Front End**
 
-    
+HTML 5, CSS 3, Javascript, React    
 
-Back End
+**Back End**
 
-       
+Python, Java, Node.JS, Flask, React.JS
+
+Dynamics:
+
+Pandas, Anaconda
